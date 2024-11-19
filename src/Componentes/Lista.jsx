@@ -21,7 +21,7 @@ export function Lista(){
 
     return(
         <div>
-            <figure className="flex flex-wrap">
+            <figure className="flex flex-wrap justify-between">
                 {movies.map(movie =>(
                     <Card key={movie.id} movie={movie}/>
                 ))}
