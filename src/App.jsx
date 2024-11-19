@@ -1,4 +1,4 @@
-import {Inicial} from "./Paginas/inicial.jsx"
+import {Inicial} from "./Paginas/Inicial.jsx"
 
 function App() {
 
